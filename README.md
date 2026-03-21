@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student with a passi
 - 🔭 I’m currently working on **Electronic Projects and Web Development**
 - 🌱 I’m currently learning **Advanced Microcontrollers and Machine Learning**
 - 💬 Ask me about **Circuit Design, IoT, React, and Python**
-- 📫 How to reach me: **[Add your email / LinkedIn here]**
+- 📫 How to reach me: **[chanupahansajarcg2003@gmail.com / www.linkedin.com/in/chanupa-hansaja-vithanage]**
 
 ## 🛠️ Languages & Tools
 <p align="center">
