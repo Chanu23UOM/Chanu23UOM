@@ -10,7 +10,15 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student with a passi
 - 🔭 I’m currently working on **Electronic Projects and Web Development**
 - 🌱 I’m currently learning **Advanced Microcontrollers and Machine Learning**
 - 💬 Ask me about **Circuit Design, IoT, React, and Python**
-- 📫 How to reach me: **[chanupahansajarcg2003@gmail.com / www.linkedin.com/in/chanupa-hansaja-vithanage]**
+- 📫 How to reach me: **[Add your email / LinkedIn here]**
+
+## 🎵 Currently Playing
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com">
+    <!-- Make sure to replace YOUR_SPOTIFY_UID below! -->
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
+</div>
 
 ## 🛠️ Languages & Tools
 <p align="center">
@@ -22,8 +30,18 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student with a passi
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chanu23UOM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanu23UOM&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <h3>🐍 My GitHub Contribution Snake 🐍</h3>
+  <!-- The snake animation will appear here once the GitHub Action runs -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanu23UOM/Chanu23UOM/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chanu23UOM/Chanu23UOM/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Chanu23UOM/Chanu23UOM/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
