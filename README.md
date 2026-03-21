@@ -12,14 +12,6 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student with a passi
 - 💬 Ask me about **Circuit Design, IoT, React, and Python**
 - 📫 How to reach me: **[Add your email / LinkedIn here]**
 
-## 🎵 Currently Playing
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com">
-    <!-- Make sure to replace YOUR_SPOTIFY_UID below! -->
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,7 +29,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student with a passi
 </div>
 
 <div align="center">
-  <h3>🐍 My GitHub Contribution Snake 🐍</h3>
+  <h3>🐍 My GitHub Contribution Snake</h3>
   <!-- The snake animation will appear here once the GitHub Action runs -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanu23UOM/Chanu23UOM/output/github-contribution-grid-snake-dark.svg">
